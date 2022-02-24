@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Next.js!
+          Changes to trigger CodePipeline
         </h1>
         <Link href="/secret">
           <a>Secret</a>
